@@ -4,10 +4,10 @@
  Follow [Ryan Burgess on Twitter](http://twitter.com/burgessdryan)
 
 ## Mentoring
- * [Plato](https://www.platohq.com/)
- * [SCORE](https://www.score.org/)
- * [Tech Leader Mentoring Group](https://marcusblankenship.com/tech-lead-mentoring-group/)
- * [The Mentoring Club](https://www.mentoring-club.com/) - A non-profit mentoring group.
+ * ~[Plato](https://www.platohq.com/)~
+ * ~[SCORE](https://www.score.org/)~
+ * ~[Tech Leader Mentoring Group](https://marcusblankenship.com/tech-lead-mentoring-group/)~
+ * ~[The Mentoring Club](https://www.mentoring-club.com/) - A non-profit mentoring group.~
 
 ## Books
  * [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
